@@ -1,0 +1,7 @@
+11:50:11.551 [TestNG-tests-2] INFO  TestCases.HomePage - pwd given
+11:50:19.084 [TestNG-tests-3] INFO  TestCases.fPpage - username given
+11:50:34.487 [TestNG-tests-3] INFO  TestCases.fPpage - Find Account clicked
+11:50:49.077 [TestNG-tests-2] INFO  TestCases.HomePage - LoggedIn suucessfully
+11:50:49.104 [TestNG-tests-2] INFO  TestCases.HomePage - title extracted
+11:50:49.149 [TestNG-tests-2] INFO  TestCases.HomePage - Notification Bar is displayed
+11:50:49.204 [TestNG-tests-2] INFO  TestCases.HomePage - Driver Closed

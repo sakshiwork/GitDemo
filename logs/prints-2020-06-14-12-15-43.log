@@ -1,0 +1,8 @@
+12:15:26.279 [main] INFO  TestCases.HomePage - Driver Initialized
+12:15:28.013 [main] INFO  TestCases.HomePage - URL got hit
+12:15:28.893 [main] INFO  TestCases.HomePage - Login button clicked
+12:15:31.099 [main] INFO  TestCases.HomePage - username given
+12:15:31.252 [main] INFO  TestCases.HomePage - pwd given
+12:15:43.107 [main] INFO  TestCases.HomePage - LoggedIn suucessfully
+12:15:43.160 [main] INFO  TestCases.HomePage - title extracted
+12:15:43.248 [main] INFO  TestCases.HomePage - Notification Bar is displayed

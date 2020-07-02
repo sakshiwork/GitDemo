@@ -1,0 +1,7 @@
+10:49:19.110 [TestNG-tests-3] INFO  TestCases.fPpage - URL got hit
+10:49:20.208 [TestNG-tests-2] INFO  TestCases.HomePage - Login button clicked
+10:49:20.685 [TestNG-tests-3] INFO  TestCases.fPpage - Login button clicked
+10:49:22.310 [TestNG-tests-2] INFO  TestCases.HomePage - username given
+10:49:22.390 [TestNG-tests-2] INFO  TestCases.HomePage - pwd given
+10:49:25.964 [TestNG-tests-3] INFO  TestCases.fPpage - username given
+10:49:33.767 [TestNG-tests-3] INFO  TestCases.fPpage - Find Account clicked

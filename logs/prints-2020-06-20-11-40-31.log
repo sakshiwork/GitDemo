@@ -1,0 +1,8 @@
+11:39:45.835 [main] INFO  TestCases.fPpage - username given
+11:39:48.190 [main] INFO  TestCases.fPpage - Find Account clicked
+11:40:11.672 [main] INFO  TestCases.HomePage - Driver Initialized
+11:40:14.676 [main] INFO  TestCases.HomePage - URL got hit
+11:40:17.019 [main] INFO  TestCases.HomePage - Login button clicked
+11:40:19.114 [main] INFO  TestCases.HomePage - username given
+11:40:19.189 [main] INFO  TestCases.HomePage - pwd given
+11:40:20.983 [main] INFO  TestCases.HomePage - LoggedIn suucessfully

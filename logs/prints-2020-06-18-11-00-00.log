@@ -1,0 +1,8 @@
+10:56:44.967 [main] INFO  TestCases.fPpage - Find Account clicked
+10:56:45.049 [main] INFO  TestCases.fPpage - Driver Closed
+10:57:21.457 [main] INFO  TestCases.fPpage - Driver Initialized
+10:57:23.101 [main] INFO  TestCases.fPpage - URL got hit
+10:57:24.809 [main] INFO  TestCases.fPpage - Login button clicked
+10:57:30.125 [main] INFO  TestCases.fPpage - username given
+10:57:32.636 [main] INFO  TestCases.fPpage - Find Account clicked
+10:59:58.007 [TestNG-tests-2] INFO  TestCases.HomePage - Driver Initialized

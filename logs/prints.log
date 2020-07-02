@@ -1,0 +1,5 @@
+12:16:23.477 [main] INFO  TestCases.fPpage - Driver Initialized
+12:16:26.166 [main] INFO  TestCases.fPpage - URL got hit
+12:16:28.209 [main] INFO  TestCases.fPpage - Login button clicked
+12:16:33.086 [main] INFO  TestCases.fPpage - username given
+12:16:35.585 [main] INFO  TestCases.fPpage - Find Account clicked

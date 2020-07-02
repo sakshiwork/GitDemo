@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15799" started-at="2020-06-20T12:16:19 IST" finished-at="2020-06-20T12:16:35 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15799" started-at="2020-06-20T12:16:19 IST" finished-at="2020-06-20T12:16:35 IST">
+      <class name="TestCases.fPpage">
+        <test-method status="PASS" signature="befortestExecution()[pri:0, instance:TestCases.fPpage@424e1977]" name="befortestExecution" is-config="true" duration-ms="3680" started-at="2020-06-20T12:16:19 IST" finished-at="2020-06-20T12:16:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befortestExecution -->
+        <test-method status="PASS" signature="forgotpageNavigation(java.lang.String)[pri:0, instance:TestCases.fPpage@424e1977]" name="forgotpageNavigation" duration-ms="12084" started-at="2020-06-20T12:16:23 IST" data-provider="getdata" finished-at="2020-06-20T12:16:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sakshisri.1195@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpageNavigation -->
+        <test-method status="FAIL" signature="header()[pri:0, instance:TestCases.fPpage@424e1977]" name="header" duration-ms="1" started-at="2020-06-20T12:16:35 IST" finished-at="2020-06-20T12:16:35 IST">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at TestCases.fPpage.header(fPpage.java:55)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- header -->
+      </class> <!-- TestCases.fPpage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

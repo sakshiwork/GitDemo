@@ -1,0 +1,8 @@
+11:11:01.747 [TestNG-tests-3] INFO  TestCases.fPpage - Find Account clicked
+11:12:03.251 [TestNG-tests-2] INFO  TestCases.HomePage - LoggedIn suucessfully
+11:12:03.407 [TestNG-tests-2] INFO  TestCases.HomePage - Driver Closed
+11:37:52.218 [main] INFO  TestCases.fPpage - Driver Initialized
+11:37:53.867 [main] INFO  TestCases.fPpage - URL got hit
+11:37:55.159 [main] INFO  TestCases.fPpage - Login button clicked
+11:38:00.599 [main] INFO  TestCases.fPpage - username given
+11:38:02.647 [main] INFO  TestCases.fPpage - Find Account clicked

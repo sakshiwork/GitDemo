@@ -1,0 +1,8 @@
+11:27:34.619 [TestNG-tests-2] INFO  TestCases.HomePage - Notification Bar is displayed
+11:27:34.751 [TestNG-tests-2] INFO  TestCases.HomePage - Driver Closed
+10:42:06.889 [main] INFO  TestCases.fPpage - Driver Initialized
+10:42:08.855 [main] INFO  TestCases.fPpage - URL got hit
+10:42:10.674 [main] INFO  TestCases.fPpage - Login button clicked
+10:42:12.843 [main] INFO  TestCases.fPpage - username given
+10:42:23.145 [main] INFO  TestCases.fPpage - Driver Closed
+10:43:10.869 [main] INFO  TestCases.fPpage - Driver Initialized

@@ -1,0 +1,7 @@
+11:04:48.379 [TestNG-tests-2] INFO  TestCases.HomePage - Driver Closed
+11:05:05.474 [TestNG-tests-3] INFO  TestCases.fPpage - Driver Initialized
+11:05:05.474 [TestNG-tests-2] INFO  TestCases.HomePage - Driver Initialized
+11:05:07.950 [TestNG-tests-3] INFO  TestCases.fPpage - URL got hit
+11:05:08.406 [TestNG-tests-2] INFO  TestCases.HomePage - URL got hit
+11:05:14.307 [TestNG-tests-2] INFO  TestCases.HomePage - Login button clicked
+11:05:14.874 [TestNG-tests-3] INFO  TestCases.fPpage - Login button clicked

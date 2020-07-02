@@ -1,0 +1,8 @@
+11:21:32.112 [main] INFO  TestCases.HomePage - Driver Closed
+11:22:27.012 [main] INFO  TestCases.HomePage - Driver Initialized
+11:22:29.830 [main] INFO  TestCases.HomePage - URL got hit
+11:22:31.998 [main] INFO  TestCases.HomePage - Login button clicked
+11:22:34.201 [main] INFO  TestCases.HomePage - username given
+11:22:34.397 [main] INFO  TestCases.HomePage - pwd given
+11:22:36.149 [main] INFO  TestCases.HomePage - LoggedIn suucessfully
+11:22:46.411 [main] INFO  TestCases.HomePage - Driver Closed

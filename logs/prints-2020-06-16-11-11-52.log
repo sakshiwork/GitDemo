@@ -1,0 +1,7 @@
+10:53:59.611 [main] INFO  TestCases.HomePage - Notification Bar is displayed
+10:53:59.778 [main] INFO  TestCases.HomePage - Driver Closed
+11:11:25.062 [TestNG-tests-2] INFO  TestCases.HomePage - Driver Initialized
+11:11:27.278 [TestNG-tests-2] INFO  TestCases.HomePage - URL got hit
+11:11:28.973 [TestNG-tests-2] INFO  TestCases.HomePage - Login button clicked
+11:11:31.190 [TestNG-tests-2] INFO  TestCases.HomePage - username given
+11:11:31.350 [TestNG-tests-2] INFO  TestCases.HomePage - pwd given

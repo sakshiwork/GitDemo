@@ -1,0 +1,9 @@
+10:43:12.512 [main] INFO  TestCases.fPpage - URL got hit
+10:43:13.919 [main] INFO  TestCases.fPpage - Login button clicked
+10:43:16.076 [main] INFO  TestCases.fPpage - username given
+10:43:26.179 [main] INFO  TestCases.fPpage - Driver Closed
+10:48:43.704 [main] INFO  TestCases.fPpage - Driver Initialized
+10:48:45.518 [main] INFO  TestCases.fPpage - URL got hit
+10:48:46.783 [main] INFO  TestCases.fPpage - Login button clicked
+10:48:48.930 [main] INFO  TestCases.fPpage - username given
+10:48:59.053 [main] INFO  TestCases.fPpage - Driver Closed

@@ -1,0 +1,7 @@
+11:04:17.490 [TestNG-tests-3] INFO  TestCases.fPpage - Find Account clicked
+11:04:18.023 [TestNG-tests-2] INFO  TestCases.HomePage - Login button clicked
+11:04:20.130 [TestNG-tests-2] INFO  TestCases.HomePage - username given
+11:04:20.207 [TestNG-tests-2] INFO  TestCases.HomePage - pwd given
+11:04:48.144 [TestNG-tests-2] INFO  TestCases.HomePage - LoggedIn suucessfully
+11:04:48.177 [TestNG-tests-2] INFO  TestCases.HomePage - title extracted
+11:04:48.260 [TestNG-tests-2] INFO  TestCases.HomePage - Notification Bar is displayed

@@ -1,0 +1,8 @@
+13:14:23.905 [TestNG-tests-2] INFO  TestCases.HomePage - Driver Closed
+10:53:40.097 [main] INFO  TestCases.HomePage - Driver Initialized
+10:53:43.552 [main] INFO  TestCases.HomePage - URL got hit
+10:53:45.395 [main] INFO  TestCases.HomePage - Login button clicked
+10:53:47.681 [main] INFO  TestCases.HomePage - username given
+10:53:47.833 [main] INFO  TestCases.HomePage - pwd given
+10:53:48.997 [main] INFO  TestCases.HomePage - LoggedIn suucessfully
+10:53:59.351 [main] INFO  TestCases.HomePage - title extracted

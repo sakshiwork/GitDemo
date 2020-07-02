@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55835" started-at="2020-06-20T11:49:53 IST" finished-at="2020-06-20T11:50:49 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5" started-at="2020-06-20T11:49:53 IST" finished-at="2020-06-20T11:49:53 IST">
+    </test> <!-- Test -->
+    <test name="ForgotPaswword" duration-ms="41124" started-at="2020-06-20T11:49:53 IST" finished-at="2020-06-20T11:50:34 IST">
+      <class name="TestCases.fPpage">
+        <test-method status="PASS" signature="befortestExecution()[pri:0, instance:TestCases.fPpage@4d6025c5]" name="befortestExecution" is-config="true" duration-ms="4184" started-at="2020-06-20T11:49:53 IST" finished-at="2020-06-20T11:49:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befortestExecution -->
+        <test-method status="PASS" signature="forgotpageNavigation(java.lang.String)[pri:0, instance:TestCases.fPpage@4d6025c5]" name="forgotpageNavigation" duration-ms="36910" started-at="2020-06-20T11:49:57 IST" data-provider="getdata" finished-at="2020-06-20T11:50:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sakshisri.1195@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpageNavigation -->
+      </class> <!-- TestCases.fPpage -->
+    </test> <!-- ForgotPaswword -->
+    <test name="HomePage" duration-ms="55835" started-at="2020-06-20T11:49:53 IST" finished-at="2020-06-20T11:50:49 IST">
+      <class name="TestCases.HomePage">
+        <test-method status="PASS" signature="befortestExecution()[pri:0, instance:TestCases.HomePage@239105a8]" name="befortestExecution" is-config="true" duration-ms="4184" started-at="2020-06-20T11:49:53 IST" finished-at="2020-06-20T11:49:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befortestExecution -->
+        <test-method status="PASS" signature="basepageNavigation(java.lang.String, java.lang.String)[pri:0, instance:TestCases.HomePage@239105a8]" name="basepageNavigation" duration-ms="51572" started-at="2020-06-20T11:49:57 IST" data-provider="getdata" finished-at="2020-06-20T11:50:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sakshisri.1195@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9455614136]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basepageNavigation -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestCases.HomePage@239105a8]" name="close" is-config="true" duration-ms="55" started-at="2020-06-20T11:50:49 IST" finished-at="2020-06-20T11:50:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.HomePage -->
+    </test> <!-- HomePage -->
+  </suite> <!-- Suite -->
+</testng-results>
