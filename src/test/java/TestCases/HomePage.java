@@ -45,6 +45,7 @@ public void befortestExecution() throws IOException
 		log.info("title extracted");
 		Assert.assertTrue(lp.NotificationBar().isDisplayed());
 		log.info("Notification Bar is displayed");
+		System.out.println("New code added");
 	}
 
 	@DataProvider
